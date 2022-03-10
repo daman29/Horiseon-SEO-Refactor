@@ -19,6 +19,6 @@ Link above takes you to the website.
 ## Screenshot
 Below is the screen capture of the webpage.
 
-![alt text](assets/images/screenshot.png)
+![Screen capture of the Horiseon SEO website. Contains full webpage including title and content.](assets/images/screenshot.png)
 
 ---
