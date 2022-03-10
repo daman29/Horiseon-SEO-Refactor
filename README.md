@@ -1,7 +1,9 @@
 # Horiseon-SEO-Refactor
-Refactoring Horiseon SEO for accessibility
 
-## Link
+## Goal
+Refactoring Horiseon SEO source code for accessibility. 
+
+## Website URL
 https://daman29.github.io/Horiseon-SEO-Refactor/
 
 Link above takes you to the website.
@@ -16,6 +18,7 @@ Link above takes you to the website.
 - All headings in order and descriptive title provided
 - Comments added to CSS and responsive behavior added
 - Fixed broken links
+- Fixed text jumping all over the webpage with different viewport size.
 
 ## Horiseon Webpage Overview
 Below is the screen capture of the webpage.
@@ -26,3 +29,5 @@ Below is the screen capture of the webpage.
 
 ## Bonus
 - Added responsive design to CSS
+- Added hover attribute to nav elements for accessibility
+- Made all text more legible
