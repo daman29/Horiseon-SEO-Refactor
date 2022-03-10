@@ -1,4 +1,5 @@
 # Horiseon-SEO-Refactor
+Refactoring Horiseon SEO for accessibility
 
 ## Link
 https://daman29.github.io/Horiseon-SEO-Refactor/
@@ -16,9 +17,12 @@ Link above takes you to the website.
 - Comments added to CSS and responsive behavior added
 - Fixed broken links
 
-## Screenshot
+## Horiseon Webpage Overview
 Below is the screen capture of the webpage.
 
 ![Screen capture of the Horiseon SEO website. Contains full webpage including title and content.](assets/images/screenshot.png)
 
 ---
+
+## Bonus
+- Added responsive design to CSS
