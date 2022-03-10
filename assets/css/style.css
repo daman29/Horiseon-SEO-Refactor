@@ -89,16 +89,6 @@ a:hover{
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* elements for images in the content to either float left or right */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 /* defining benefits class to style side panel */
 .benefits {
     margin-right: 20px;
@@ -125,6 +115,17 @@ a:hover{
     margin: 10px auto;
     max-width: 150px;
 }
+/* elements for images in the content to either float left or right */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 /* stylisising footer element */
 footer {
     padding: 30px;
